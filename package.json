@@ -1,0 +1,17 @@
+{
+  "name": "pinecone-test",
+  "version": "1.0.0",
+  "main": "default.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^3.0.2",
+    "openai": "^4.56.1"
+  },
+  "description": "",
+  "type": "module"
+}
